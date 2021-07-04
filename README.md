@@ -7,6 +7,7 @@ to predict their respective Ratings based on certain features
 DEPLOY the Machine learning model via Flask that can be used to make live predictions 
 of restaurants ratings 
 1STEPS: 
+
 A. EDA and Model Building Part
 
 1. Load the dataset and perform the necessary EDA in your Jupyter notebook or google 
